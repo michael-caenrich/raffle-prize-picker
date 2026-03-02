@@ -1,0 +1,16 @@
+# Cache files
+__pycache__/
+*.py[cod]
+
+# macOS files
+.DS_Store
+
+# JetBrains IDE settings
+.idea/
+
+# Logs and temporary files
+*.log
+
+# Task from Scrimba
+task.txt
+raffle_results.txt
