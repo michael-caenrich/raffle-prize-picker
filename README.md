@@ -4,15 +4,14 @@ and assigns prizes, marking the last one as the Grand Prize.
 
 ---
 ### Features
-- Input validation
-- No duplicate winners
-- Modular structure
-- Clean terminal output
+- Collect participant names and prizes
+- Pick 3 random winners with no duplicates 
+- Save results to a text file
 
 ---
 
 ### Requirements
-- **Python 3.8+**
+- **Python 3.9+**
 - No external dependencies.
 
 ---
@@ -28,5 +27,5 @@ python raffle_prize_picker.py
 ---
 
 ### Author
-Pavel Kandrichin (michael-caenrich)
+Pavel Kandrichin (michael-caenrich)  
 GitHub: https://github.com/michael-caenrich
